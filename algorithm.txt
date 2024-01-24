@@ -1,0 +1,14 @@
+1. Output thank you message "Thank you for shopping at M and H grocery store!"
+2. Prompt the user to "Enter the first item you purchased: " store in item1
+3. Prompt the user to "Enter the number of units for item: " store in item1quantity
+4. Prompt the user to "Enter the cost per unit: " store in item1cost
+5. Prompt the user to "Enter the first item you purchased: " store in item2
+6. Prompt the user to "Enter the number of units for item: " store in item2quantity
+7. Prompt the user to "Enter the cost per unit: " store in item2cost
+8. Calculate the total cost for item1 using item1quantity * item1cost, store to item1total
+9. Calculate the total cost for item2 using item2quantity * item2cost, store to item2total
+10. Output "Thank you for shopping. Here is your receipt: "
+11. Output item1 item1quantity @ item1cost: item1total
+12. Output item2 item2quantity @ item2cost: item2total
+13. Output total price as item1total + item2total
+14. Output "Thank you for your visit. Have a good day!"
