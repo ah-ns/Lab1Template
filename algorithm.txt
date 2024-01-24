@@ -1,14 +1,20 @@
-1. Output thank you message "Thank you for shopping at M and H grocery store!"
-2. Prompt the user to "Enter the first item you purchased: " store in item1
-3. Prompt the user to "Enter the number of units for item: " store in item1quantity
-4. Prompt the user to "Enter the cost per unit: " store in item1cost
-5. Prompt the user to "Enter the first item you purchased: " store in item2
-6. Prompt the user to "Enter the number of units for item: " store in item2quantity
-7. Prompt the user to "Enter the cost per unit: " store in item2cost
-8. Calculate the total cost for item1 using item1quantity * item1cost, store to item1total
-9. Calculate the total cost for item2 using item2quantity * item2cost, store to item2total
-10. Output "Thank you for shopping. Here is your receipt: "
-11. Output item1 item1quantity @ item1cost: item1total
-12. Output item2 item2quantity @ item2cost: item2total
-13. Output total price as item1total + item2total
-14. Output "Thank you for your visit. Have a good day!"
+1. Output thank you message "Thank you for visiting M and H grocery store!"
+2. Prompt the user to "Enter the first item you purchased: "
+3. create new String item1 and get user input
+4. Prompt the user to "Enter the number of units for item: "
+5. create new int item1quantity and get user input
+6. Prompt the user to "Enter the cost per unit: "
+7. create new double item1cost and get user input
+8. Prompt the user to "Enter the second item you purchased: "
+9. create new String item2 and get user input
+10. Prompt the user to "Enter the number of units for item: "
+11. create new int item2quantity and get user input
+12. Prompt the user to "Enter the cost per unit: "
+13. create new double item2cost and get user input
+14. Calculate the total cost for item1 using item1quantity * item1cost, store to double item1total
+15. Calculate the total cost for item2 using item2quantity * item2cost, store to double item2total
+16. Output "Thank you for shopping. Here is your receipt: "
+17. Output item1 item1quantity @ item1cost: item1total
+18. Output item2 item2quantity @ item2cost: item2total
+19. Output total price as item1total + item2total
+20. Output "Thank you for your visit. Have a good day!"
